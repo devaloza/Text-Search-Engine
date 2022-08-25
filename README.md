@@ -3,4 +3,5 @@ A collection of algorithms for querying a set of documents and generate the scor
 
 Two algorithms are implemented that are:
 Best Match 25 
+
 Vector Space Model
